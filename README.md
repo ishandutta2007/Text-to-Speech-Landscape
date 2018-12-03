@@ -23,6 +23,7 @@
 - [Kyubyong's dc-tts kate(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_kate_800k)
 - [andabi's deep voice conversion](https://soundcloud.com/andabi/sets/voice-style-transfer-to-kate-winslet-with-deep-neural-networks)
 - [Facebook Loop samples](https://ytaigman.github.io/loop/)(official)
+- [mazzzystar's randomCNN voice transfer)](https://soundcloud.com/mazzzystar/sets/speech-conversion-sample)
 
 ## Product Demos:
 
