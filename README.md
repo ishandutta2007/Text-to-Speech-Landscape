@@ -18,7 +18,7 @@
 - [Kyubyong's tacotron on LJ dataset(200kiterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_lj_200k) - [(Download pretrained model)](https://www.dropbox.com/s/8kxa3xh2vfna3s9/LJ_logdir.zip?dl=0)
 - [Kyubyong's tacotron on nick dataset(215k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_nick_215k)
 - [Kyubyong's tacotron on web dataset(183k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_web_183k) - [(Download pretrained model)](https://www.dropbox.com/s/g7m6xhd350ozkz7/WEB_logdir.zip?dl=0)
-- [Kyubyong's dc-tts on LJ dataset(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_lj_800k)
+- [Kyubyong's dc-tts on LJ dataset(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_lj_800k) - [(Get pretrained model)](https://github.com/Kyubyong/dc_tts#pretrained-model-for-lj)
 - [Kyubyong's dc-tts on nick dataset(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_nick_800k)
 - [Kyubyong's dc-tts kate(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_kate_800k)
 - [andabi's deep voice conversion](https://soundcloud.com/andabi/sets/voice-style-transfer-to-kate-winslet-with-deep-neural-networks)
