@@ -14,7 +14,7 @@
 | [Google Tacotron2 samples](https://google.github.io/tacotron/publications/tacotron2/index.html)(official) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
 | [Google tacotron + style transfer sample](https://google.github.io/tacotron/publications/end_to_end_prosody_transfer/)(official)|--|--|[1803.09047](https://arxiv.org/abs/1803.09047)| A |
 | [r9y9's wavenet vocoder Tacotron2(189k iterations)](https://r9y9.github.io/wavenet_vocoder/)|[(Download Tacotron2 model)](https://www.dropbox.com/s/vx7y4qqs732sqgg/pretrained.tar.gz?dl=0) - [(Download wavenet model(1000k iterations))](https://www.dropbox.com/s/zdbfprugbagfp2w/20180510_mixture_lj_checkpoint_step000320000_ema.pth?dl=0) - [(Get models)](https://github.com/r9y9/wavenet_vocoder#pre-trained-models)|--|--| B |
-| [syang1993's tacotron + style transfer samples](https://syang1993.github.io/gst-tacotron/)(200 iterations)|--|--|--| C |
+| [syang1993's tacotron + style transfer samples](https://syang1993.github.io/gst-tacotron/)(200 iterations)|--|--|[1803.09047](https://arxiv.org/abs/1803.09047) and [1803.09017](https://arxiv.org/abs/1803.09017)| C |
 | [keithito's tacotron samples(414k iterations)](https://keithito.github.io/audio-samples/)|[(Get pretrained model)](https://github.com/keithito/tacotron#using-a-pre-trained-model)|--|--| D |
 | [rayhane's Tacotron2 samples(6k4 steps(whatever that means))](https://rayhane-mamah.github.io/Tacotron-2_audio_samples/)|--|--|--| D |
 | [Kyubyong's tacotron on LJ dataset(200kiterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_lj_200k)|[(Download pretrained model)](https://www.dropbox.com/s/8kxa3xh2vfna3s9/LJ_logdir.zip?dl=0)|--|--| D |
