@@ -13,7 +13,7 @@
 - [Google tacotron + style transfer sample](https://google.github.io/tacotron/publications/end_to_end_prosody_transfer/)(official)
 - [r9y9's wavenet vocoder Tacotron2(189k iterations)](https://r9y9.github.io/wavenet_vocoder/) - [(Download Tacotron2 pretrained model)](https://www.dropbox.com/s/vx7y4qqs732sqgg/pretrained.tar.gz?dl=0) - [(Download wavenet pretrained model(1000k iterations))](https://www.dropbox.com/s/zdbfprugbagfp2w/20180510_mixture_lj_checkpoint_step000320000_ema.pth?dl=0)
 - [syang1993's tacotron + style transfer samples](https://syang1993.github.io/gst-tacotron/)(200 iterations)
-- [keithito's tacotron samples(414k iterations)](https://keithito.github.io/audio-samples/)
+- [keithito's tacotron samples(414k iterations)](https://keithito.github.io/audio-samples/) [Get pretrained model](https://github.com/keithito/tacotron#using-a-pre-trained-model)
 - [rayhane's Tacotron2 samples(6k4 steps(whatever that means))](https://rayhane-mamah.github.io/Tacotron-2_audio_samples/)
 - [Kyubyong's tacotron on LJ dataset(200kiterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_lj_200k)
 - [Kyubyong's tacotron on nick dataset(215k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_nick_215k)
