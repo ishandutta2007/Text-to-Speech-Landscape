@@ -38,6 +38,7 @@
 | [Facebook Loop samples](https://ytaigman.github.io/loop/)(official)|[Get model](https://github.com/facebookresearch/loop#pretrained-models)|--|--| D |
 | [mazzzystar's randomCNN voice transfer](https://soundcloud.com/mazzzystar/sets/speech-conversion-sample)|--|--|[1712.08363](https://arxiv.org/abs/1712.08363)| D |
 
+If I missed your output sample/demo in this consolidation, just add and send a pull request here. I am more than happy to add it. Thanks!
 
 ## Product Demos:
 
