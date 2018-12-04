@@ -3,6 +3,12 @@
 ## Reddit Posts:
 
 - [[N] Baidu AI Can Clone Your Voice in Seconds](https://www.reddit.com/r/MachineLearning/comments/7zb2jm/n_baidu_ai_can_clone_your_voice_in_seconds/)
+- [[R] Expressive Speech Synthesis with Tacotron
+](https://www.reddit.com/r/MachineLearning/comments/87klvo/r_expressive_speech_synthesis_with_tacotron/)
+- [[D] Realtime Neural Voice Style Transfer Feasibility and Implications
+](https://www.reddit.com/r/MachineLearning/comments/8opn4c/d_realtime_neural_voice_style_transfer/)
+- [[D] Is there an implementation of Neural Voice Cloning?
+](https://www.reddit.com/r/MachineLearning/comments/8o7mkt/d_is_there_an_implementation_of_neural_voice/)
 - [[D] Are the hyper-realistic results of Tacotron-2 and Wavenet not reproducible?](https://www.reddit.com/r/MachineLearning/comments/845uji/d_are_the_hyperrealistic_results_of_tacotron2_and/) 
 - [[P] Voice Style Transfer: Speaking like Kate Winslet](https://www.reddit.com/r/MachineLearning/comments/7a0wcv/p_voice_style_transfer_speaking_like_kate_winslet/)
 
