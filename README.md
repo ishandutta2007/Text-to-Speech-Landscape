@@ -1,4 +1,4 @@
-# Text to Speech(TTS)/Style Transfer/Voice Transfer Landscape
+# Text to Speech(TTS)/Style Transfer/Voice Cloning Landscape
 
 ## Reddit Posts:
 
