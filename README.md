@@ -27,9 +27,9 @@
 | [syang1993's tacotron + style transfer samples](https://syang1993.github.io/gst-tacotron/)(200k iterations)|--|--|[1803.09047](https://arxiv.org/abs/1803.09047) and [1803.09017](https://arxiv.org/abs/1803.09017)| C |
 | [keithito's tacotron samples(414k iterations)](https://keithito.github.io/audio-samples/)|[(Get model)](https://github.com/keithito/tacotron#using-a-pre-trained-model)|--|--| D |
 | [rayhane's Tacotron2 samples(6k4 steps(whatever that means))](https://rayhane-mamah.github.io/Tacotron-2_audio_samples/)|--|--|--| D |
-| [Kyubyong's tacotron on LJ dataset(200k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_lj_200k)|[(Download model)](https://www.dropbox.com/s/8kxa3xh2vfna3s9/LJ_logdir.zip?dl=0)|--|--| D |
+| [Kyubyong's tacotron on LJ dataset(200k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_lj_200k)|[Download model](https://www.dropbox.com/s/8kxa3xh2vfna3s9/LJ_logdir.zip?dl=0)|--|--| D |
 | [Kyubyong's tacotron on nick dataset(215k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_nick_215k)|--|--|--| D |
-| [Kyubyong's tacotron on web dataset(183k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_web_183k)|[(Download model)](https://www.dropbox.com/s/g7m6xhd350ozkz7/WEB_logdir.zip?dl=0)|--|--| D |
+| [Kyubyong's tacotron on web dataset(183k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_web_183k)|[Download model](https://www.dropbox.com/s/g7m6xhd350ozkz7/WEB_logdir.zip?dl=0)|--|--| D |
 | [Kyubyong's expressive tacotron(420k iterations)](https://soundcloud.com/kyubyong-park/sets/expressive_tacotron_420k)|--|--|[1803.09047](https://arxiv.org/abs/1803.09047)| D |
 | [Kyubyong's dc-tts on LJ dataset(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_lj_800k)|[(Get model)](https://github.com/Kyubyong/dc_tts#pretrained-model-for-lj)|--|--| D |
 | [Kyubyong's dc-tts on nick dataset(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_nick_800k)|--|--|--| D |
