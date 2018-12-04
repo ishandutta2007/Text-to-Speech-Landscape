@@ -42,3 +42,9 @@
 - [Google Duplex Demo](https://www.youtube.com/watch?v=D5VN56jQMWM&t=66s)(official)
 - [Deep Fakes demo](https://www.youtube.com/watch?v=VXZlq70jHvw) [(Download Pretrained model)](https://anonfile.com/p7w3m0d5be/face-swap.zip)
 - [Adobe Voco Demo](https://youtu.be/I3l4XLZ59iw)(official)
+
+## Arxiv-sanity
+
+- http://www.arxiv-sanity.com/1705.08947v1
+- http://arxiv-sanity.com/1703.10135v2
+
