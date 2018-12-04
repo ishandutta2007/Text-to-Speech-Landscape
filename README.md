@@ -32,7 +32,7 @@
 | [Kyubyong's dc-tts kate(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_kate_800k)|--|--|--| D |
 | [andabi's deep voice conversion](https://soundcloud.com/andabi/sets/voice-style-transfer-to-kate-winslet-with-deep-neural-networks)|--|--|--| D |
 | [Facebook Loop samples](https://ytaigman.github.io/loop/)(official)|[(Get pretrained model)](https://github.com/facebookresearch/loop#pretrained-models)|--|--| D |
-| [mazzzystar's randomCNN voice transfer](https://soundcloud.com/mazzzystar/sets/speech-conversion-sample)|--|--|--| D |
+| [mazzzystar's randomCNN voice transfer](https://soundcloud.com/mazzzystar/sets/speech-conversion-sample)|--|--|[1712.08363](https://arxiv.org/abs/1712.08363)| D |
 
 
 ## Product Demos:
