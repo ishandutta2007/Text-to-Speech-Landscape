@@ -37,6 +37,9 @@
 | [andabi's deep voice conversion](https://soundcloud.com/andabi/sets/voice-style-transfer-to-kate-winslet-with-deep-neural-networks)|--|--|--| D |
 | [Facebook Loop samples](https://ytaigman.github.io/loop/)(official)|[Get model](https://github.com/facebookresearch/loop#pretrained-models)|--|--| D |
 | [mazzzystar's randomCNN voice transfer](https://soundcloud.com/mazzzystar/sets/speech-conversion-sample)|--|--|[1712.08363](https://arxiv.org/abs/1712.08363)| D |
+| [NVIDIA's waveglow](https://nv-adlr.github.io/WaveGlow)|[Download Model](https://drive.google.com/file/d/1cjKPHbtAMh_4HTHmuIGNkbOkPBD9qwhj/view?usp=sharing)|--|--| A |
+| [NVIDIA's tacotron2 + waveglow](https://nv-adlr.github.io/WaveGlow)|[Download Model](https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing)|--|--| A |
+| [NVIDIA's Giffin-Lim](https://nv-adlr.github.io/WaveGlow)|--|--|--| A |
 
 
 ## Work in progress:
