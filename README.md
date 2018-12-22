@@ -54,7 +54,6 @@ If I missed your output sample/demo in this consolidation, just add and send a p
 - [Lyrebird samples](https://lyrebird.ai/g/vWI8bJTl)(official)
 - [Lyrebird Demo](https://youtu.be/YfU_sWHT8mo)(official)
 - [Google Duplex Demo](https://www.youtube.com/watch?v=D5VN56jQMWM&t=66s)(official)
-- [Deep Fakes demo](https://www.youtube.com/watch?v=VXZlq70jHvw) [(Download Pretrained model)](https://anonfile.com/p7w3m0d5be/face-swap.zip)
 - [Adobe Voco Demo](https://youtu.be/I3l4XLZ59iw)(official)
 
 ## Arxiv-sanity
