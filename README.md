@@ -44,6 +44,8 @@
 
 ## Work in progress:
  - https://github.com/ErnstTmp is implementing https://arxiv.org/abs/1807.06736
+ - https://github.com/nii-yamagishilab/self-attention-tacotron
+ - https://github.com/nii-yamagishilab/tacotron2
 
 If I missed your output sample/demo in this consolidation, just add and send a pull request. I will be more than happy to add it. Thanks!
 
