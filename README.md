@@ -20,6 +20,9 @@
 | [Baidu's Deep Voice 3 samples](http://research.baidu.com/Blog/index-view?id=91)(official)|--|--|[1710.07654](https://arxiv.org/pdf/1710.07654.pdf)| B |
 | [Google Tacotron2 samples](https://google.github.io/tacotron/publications/tacotron2/index.html)(official) | -- | -- | [1712.05884](https://arxiv.org/abs/1712.05884) | A |
 | [Google tacotron + style transfer sample](https://google.github.io/tacotron/publications/end_to_end_prosody_transfer/)(official)|--|--|[1803.09047](https://arxiv.org/abs/1803.09047)| A |
+| [NVIDIA's waveglow](https://nv-adlr.github.io/WaveGlow)|[Download Model](https://drive.google.com/file/d/1cjKPHbtAMh_4HTHmuIGNkbOkPBD9qwhj/view?usp=sharing)|[Code](https://github.com/NVIDIA/waveglow)|[1811.00002](https://arxiv.org/abs/1811.00002)| A |
+| [NVIDIA's tacotron2 + waveglow](https://nv-adlr.github.io/WaveGlow)|[Download Model](https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing)|[Code](https://github.com/NVIDIA/tacotron2)|--| A |
+| [Griffin-Lim](https://nv-adlr.github.io/WaveGlow)|--|--|--| A |
 |[Deepmind Neural Discrete Representation Learning samples](https://avdnoord.github.io/homepage/vqvae/)(official)|--|--|[1711.00937](https://arxiv.org/abs/1711.00937)| B |
 | [r9y9's wavenet vocoder Tacotron2(189k iterations)](https://r9y9.github.io/wavenet_vocoder/)|[(Download Tacotron2 model)](https://www.dropbox.com/s/vx7y4qqs732sqgg/pretrained.tar.gz?dl=0) - [(Download wavenet model(1000k iterations))](https://www.dropbox.com/s/zdbfprugbagfp2w/20180510_mixture_lj_checkpoint_step000320000_ema.pth?dl=0) - [(Get models)](https://github.com/r9y9/wavenet_vocoder#pre-trained-models)|--| [1712.05884](https://arxiv.org/abs/1712.05884) and [1611.09482](https://arxiv.org/abs/1611.09482)| B |
 |[dhgrs's implementation of Neural Discrete Representation Learning samples](https://nana-music.com/playlists/2276008/)|[Download Model](https://drive.google.com/file/d/1Ayy9NbpBoZCj1WVmwHGnUTG_jB2eonVU/view)|[Code](https://github.com/dhgrs/chainer-VQ-VAE)|[1711.00937](https://arxiv.org/abs/1711.00937)| D |
@@ -37,9 +40,6 @@
 | [andabi's deep voice conversion](https://soundcloud.com/andabi/sets/voice-style-transfer-to-kate-winslet-with-deep-neural-networks)|--|--|--| D |
 | [Facebook Loop samples](https://ytaigman.github.io/loop/)(official)|[Get model](https://github.com/facebookresearch/loop#pretrained-models)|--|--| D |
 | [mazzzystar's randomCNN voice transfer](https://soundcloud.com/mazzzystar/sets/speech-conversion-sample)|--|--|[1712.08363](https://arxiv.org/abs/1712.08363)| D |
-| [NVIDIA's waveglow](https://nv-adlr.github.io/WaveGlow)|[Download Model](https://drive.google.com/file/d/1cjKPHbtAMh_4HTHmuIGNkbOkPBD9qwhj/view?usp=sharing)|[Code](https://github.com/NVIDIA/waveglow)|[1811.00002](https://arxiv.org/abs/1811.00002)| A |
-| [NVIDIA's tacotron2 + waveglow](https://nv-adlr.github.io/WaveGlow)|[Download Model](https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing)|[Code](https://github.com/NVIDIA/tacotron2)|--| A |
-| [Griffin-Lim](https://nv-adlr.github.io/WaveGlow)|--|--|--| A |
 
 
 ## Work in progress:
