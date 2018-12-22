@@ -30,7 +30,7 @@
 | [Kyubyong's tacotron on LJ dataset(200k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_lj_200k)|[Download model](https://www.dropbox.com/s/8kxa3xh2vfna3s9/LJ_logdir.zip?dl=0)|--|--| D |
 | [Kyubyong's tacotron on nick dataset(215k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_nick_215k)|--|--|--| D |
 | [Kyubyong's tacotron on web dataset(183k iterations)](https://soundcloud.com/kyubyong-park/sets/tacotron_web_183k)|[Download model](https://www.dropbox.com/s/g7m6xhd350ozkz7/WEB_logdir.zip?dl=0)|--|--| D |
-| [Kyubyong's expressive tacotron(420k iterations)](https://soundcloud.com/kyubyong-park/sets/expressive_tacotron_420k)|--|--|[1803.09047](https://arxiv.org/abs/1803.09047)| D |
+| [Kyubyong's expressive tacotron(420k iterations)](https://soundcloud.com/kyubyong-park/sets/expressive_tacotron_420k)|--|[Code](https://github.com/Kyubyong/expressive_tacotron)|[1803.09047](https://arxiv.org/abs/1803.09047)| D |
 | [Kyubyong's dc-tts on LJ dataset(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_lj_800k)|[Get model](https://github.com/Kyubyong/dc_tts#pretrained-model-for-lj)|--|--| D |
 | [Kyubyong's dc-tts on nick dataset(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_nick_800k)|--|--|--| D |
 | [Kyubyong's dc-tts kate(800k iterations)](https://soundcloud.com/kyubyong-park/sets/dc_tts_kate_800k)|--|--|--| D |
