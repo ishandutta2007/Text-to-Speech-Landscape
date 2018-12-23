@@ -56,6 +56,10 @@ If I missed your output sample/demo in this consolidation, just add and send a p
 - [Google Duplex Demo](https://www.youtube.com/watch?v=D5VN56jQMWM&t=66s)(official)
 - [Adobe Voco Demo](https://youtu.be/I3l4XLZ59iw)(official)
 
+## Related Works:
+
+- https://github.com/tensorflow/magenta
+
 ## Arxiv-sanity
 
 - http://www.arxiv-sanity.com/1705.08947v1
