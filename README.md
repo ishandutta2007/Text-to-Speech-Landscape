@@ -55,6 +55,7 @@ If I missed your output sample/demo in this consolidation, just add and send a p
 - [Lyrebird Demo](https://youtu.be/YfU_sWHT8mo)(official)
 - [Google Duplex Demo](https://www.youtube.com/watch?v=D5VN56jQMWM&t=66s)(official)
 - [Adobe Voco Demo](https://youtu.be/I3l4XLZ59iw)(official)
+- [Voice Cloning Toolbox](https://www.youtube.com/watch?v=-O_hYhToKoA)(official)
 
 ## Related Works:
 
