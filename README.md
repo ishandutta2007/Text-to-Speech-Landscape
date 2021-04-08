@@ -49,6 +49,9 @@
 
 If I missed your output sample/demo in this consolidation, just add and send a pull request. I will be more than happy to add it. Thanks!
 
+## Codelabs:
+- https://github.com/tugstugi/dl-colab-notebooks
+
 ## Product Demos:
 
 - [Lyrebird samples](https://lyrebird.ai/g/vWI8bJTl)(official)
