@@ -114,6 +114,11 @@ If I missed your output sample/demo in this consolidation, just add and send a p
 - http://arxiv-sanity.com/1703.10135v2
 
 
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Text-to-Speech-Landscape&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Text-to-Speech-Landscape&type=date&legend=top-left)
+
+
 ## 💬 Community & Support
 
 -   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials.
