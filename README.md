@@ -114,10 +114,23 @@ If I missed your output sample/demo in this consolidation, just add and send a p
 - http://arxiv-sanity.com/1703.10135v2
 
 
+## 💬 Community & Support
 
-### Support
+-   **📚 [Documentation](https://docs.open-workflows.com):** Check out our official documentation for detailed guides and tutorials.
+-   **🗣️ [Forum](https://community.open-workflows.com):** Join our community forum to ask questions, share your projects, and connect with other users.
+-   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
+-   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates.
+-   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates.
 
-If you want the good work to continue please support us on
+
+## 💖 Support & Sponsorship
+
+If you find this project helpful or if it has saved you time and resources, please consider sponsoring the development. Your support helps maintain the project, develop new features, and keep the initiative open-source.
+
+**[Sponsor @ishandutta2007 on GitHub](https://github.com/sponsors/ishandutta2007)**
 
 * [PAYPAL](https.paypal.me/ishandutta2007)
 * [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
+
+
+Every contribution, no matter how small, makes a huge difference!
