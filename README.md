@@ -1,4 +1,48 @@
-# Text to Speech(TTS)/Style Transfer/Voice Cloning Landscape
+# Text-to-Speech (TTS) Landscape
+
+A curated list of the latest and most influential tools, models, and resources in the Text-to-Speech sector.
+
+## Current State of TTS (as of 2024)
+
+The field of Text-to-Speech (TTS) has matured significantly, with modern models generating voices that are nearly indistinguishable from human speech. Key trends include:
+
+- **Human-like and Natural Speech:** Innovations in neural network architectures and training data have led to highly natural and expressive synthetic voices.
+- **New Architectures:** State Space Models (SSMs) and other new architectures are offering better performance and efficiency.
+- **Real-time Capabilities:** Significant advancements have been made in reducing latency, making real-time conversational AI more natural and responsive.
+- **Voice Cloning and Style Transfer:** It is now possible to clone a voice from a short audio sample and transfer the style of one speaker to another.
+
+## Commercial & Open Source TTS Landscape
+
+| Service/Model      | Organization      | Key Features                                                              | Link                                                                    |
+| ------------------ | ----------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **OpenAI TTS**     | OpenAI            | High-quality, real-time streaming TTS models.                             | [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech)      |
+| **ElevenLabs**     | ElevenLabs        | Realistic AI voices in numerous languages, with voice cloning and dubbing. | [ElevenLabs](https://elevenlabs.io/)                                    |
+| **Google Cloud TTS** | Google            | Large variety of voices and languages, with customization options.        | [Google Cloud TTS](https://cloud.google.com/text-to-speech)               |
+| **Deepgram Aura**  | Deepgram          | Low-latency TTS for real-time conversations.                              | [Deepgram Aura](https://deepgram.com/aura)                                |
+| **NVIDIA NeMo**    | NVIDIA            | End-to-end platform for generative AI, including advanced TTS models.     | [NVIDIA NeMo](https://developer.nvidia.com/nemo)                          |
+| **🐸 Coqui TTS**   | Coqui             | Open-source toolkit with pretrained models for over 1100 languages.      | [Coqui TTS on GitHub](https://github.com/coqui-ai/TTS)                    |
+| **Chatterbox**   | Resemble AI       | Open-source voice models with emotion control and zero-shot voice cloning.  | [Chatterbox on GitHub](https://github.com/resemble-ai/chatterbox)         |
+| **ESPnet-TTS**     | Various           | Open-source toolkit with implementations of popular TTS models.           | [ESPnet on GitHub](https://github.com/espnet/espnet)                      |
+| **Parler-TTS**     | Hugging Face      | Lightweight model for generating high-quality, natural-sounding speech.     | [Parler-TTS on Hugging Face](https://huggingface.co/parler-tts)           |
+| **Mozilla TTS**    | Mozilla           | Open-source project for building speech-enabled applications.             | [Mozilla TTS on GitHub](https://github.com/mozilla/TTS)                   |
+| **MaryTTS**        | DFKI              | Open-source, Java-based TTS engine with multilingual support.             | [MaryTTS on GitHub](https://github.com/marytts/marytts)                   |
+| **eSpeak NG**      | Various           | Compact and efficient open-source TTS engine.                             | [eSpeak NG on GitHub](https://github.com/espeak-ng/espeak-ng)             |
+| **Piper**      | Rhasspy             | A fast, local neural text to speech system.                             | [Piper on GitHub](https://github.com/rhasspy/piper)             |
+
+
+## Voice Cloning
+
+Voice cloning technology has made significant strides. Here are a few notable examples:
+
+- **XTTS-v2 by Coqui:** Can clone a voice from a 6-second audio clip and transfer emotion and speaking style.
+- **Resemble AI's Chatterbox:** Offers zero-shot voice cloning.
+- **ElevenLabs:** Provides tools for creating realistic voice clones.
+
+## Hugging Face
+
+[Hugging Face](https://huggingface.co/) has become a central hub for sharing and discovering TTS models. You can find a wide variety of pretrained models and tools for TTS on their platform.
+
+- [TTS Models on Hugging Face](https://huggingface.co/models?pipeline_tag=text-to-speech)
 
 ## Reddit Posts:
 
@@ -70,9 +114,10 @@ If I missed your output sample/demo in this consolidation, just add and send a p
 - http://arxiv-sanity.com/1703.10135v2
 
 
-### Support:
+
+### Support
 
 If you want the good work to continue please support us on
 
-* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [PAYPAL](https.paypal.me/ishandutta2007)
 * [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
