@@ -34,6 +34,7 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | Service/Model | Organization | Key Features | Link |
 | --- | --- | --- | --- |
 | **OpenAI TTS** | OpenAI | High-quality, real-time streaming TTS models for applications requiring natural AI voices. | [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) |
+| **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
 | **ElevenLabs** | ElevenLabs | State-of-the-art AI voice generator offering realistic voices, voice cloning, and AI dubbing in numerous languages. Ideal for content creators and businesses. | [ElevenLabs](https://elevenlabs.io/) |
 | **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | [Spokio](https://spokio.pro/) |
 | **Google Cloud Text-to-Speech** | Google | A powerful TTS API providing a large variety of natural-sounding voices and languages, with extensive customization options for pitch, speaking rate, and voice profiles. | [Google Cloud TTS](https://cloud.google.com/text-to-speech) |
