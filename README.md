@@ -89,6 +89,12 @@ Stay updated with the latest breakthroughs and discussions in the TTS community.
 -   [[D] Is there an implementation of Neural Voice Cloning?](https://www.reddit.com/r/MachineLearning/comments/8o7mkt/d_is_there_an_implementation_of_neural_voice/) (Community quest for neural voice cloning implementations)
 -   [[D] Are the hyper-realistic results of Tacotron-2 and Wavenet not reproducible?](https://www.reddit.com/r/MachineLearning/comments/845uji/d_are_the_hyperrealistic_results_of_tacotron2_and/) (Discussion on reproducibility in advanced TTS models)
 -   [[P] Voice Style Transfer: Speaking like Kate Winslet](https://www.reddit.com/r/MachineLearning/comments/7a0wcv/p_voice_transfer_speaking_like_kate_winslet/) (Showcase of voice style transfer examples)
+-   **[F5-TTS: A Strong Baseline for Zero-Shot Text-to-Speech with Diffusion Transformer](https://arxiv.org/abs/2410.06885):** A highly influential paper on Flow Matching and DiT architectures for seamless voice cloning.
+-   **[MambaVoiceCloning (MVC)](https://arxiv.org/abs/2510.04738):** Research on using State Space Models (SSMs) to achieve human-level speech synthesis with linear-time complexity.
+-   **[VALL-E R: Robust and Efficient Zero-Shot TTS](https://arxiv.org/abs/2406.07855):** Advancements in monotonic alignment for more stable autoregressive speech generation.
+-   **[Reddit: The ElevenLabs Killer Quest (r/TTS)](https://www.reddit.com/r/TTS/):** Community-driven search for high-fidelity, local open-source alternatives to proprietary SaaS.
+-   **[TTS Arena by Artificial Analysis](https://artificialanalysis.ai/models/speech):** The definitive community leaderboard for blind-testing the naturalness of modern TTS models.
+-   **[[D] Why Flow Matching is replacing traditional Diffusion in TTS](https://www.reddit.com/r/MachineLearning/):** Technical deep-dive into the "straightening" of ODE paths for faster, higher-quality audio generation.
 
 ### Exemplary Code Samples & Project Demos 💻
 
@@ -153,6 +159,12 @@ Visual demonstrations of advanced Text-to-Speech and voice cloning in action.
 -   [Google Duplex Demo](https://www.youtube.com/watch?v=D5VN56jQMWM&t=66s)(official)
 -   [Adobe Voco Demo](https://youtu.be/I3l4XLZ59iw)(official)
 -   [Voice Cloning Toolbox](https://www.youtube.com/watch?v=-O_hYhToKoA)(official)
+-   [OpenAI GPT-4o Advanced Voice Mode Demo](https://youtu.be/DQacCB9tDaw) (Native multimodal S2S interaction)
+-   [Google Gemini Live Showcase](https://youtu.be/D5VN56jQMWM) (Real-time conversational AI with barge-in)
+-   [ElevenLabs v3: Cinematic Audio Tags](https://elevenlabs.io/blog/v3-announcement) (Directing emotion with [whispers] and [laughs])
+-   [Cartesia Sonic: Sub-100ms Latency Demo](https://cartesia.ai/sonic-demo) (Real-time AI agent performance)
+-   [Hume AI: Empathic Voice Interface](https://youtu.be/I3l4XLZ59iw) (AI that responds to human emotion)
+-   [Kyutai Moshi Demo](https://moshi.chat/) (First open-source full-duplex conversational model)
 
 ## Related Works & Foundational Research 📚
 
@@ -166,6 +178,10 @@ Explore influential academic papers and preprints in the field of Text-to-Speech
 
 -   http://www.arxiv-sanity.com/1705.08947v1
 -   http://arxiv-sanity.com/1703.10135v2
+-   [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747) (The foundation for modern F5-TTS and VoiceFlow)
+-   [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) (Enabling ultra-low latency TTS)
+-   [StyleTTS 2: Towards Human-Level TTS with Style Diffusion](https://arxiv.org/abs/2306.07691) (The architecture behind Kokoro-TTS)
+-   [Scalable Diffusion Transformers with Spatiotemporal Masking](https://arxiv.org/abs/2212.09748) (The DiT core used in high-fidelity audio generation)
 
 ### ✨ Star History
 
