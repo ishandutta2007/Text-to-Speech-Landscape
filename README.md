@@ -33,6 +33,7 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | --- | --- | --- | --- |
 | **OpenAI TTS** | OpenAI | High-quality, real-time streaming TTS models for applications requiring natural AI voices. | [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) |
 | **ElevenLabs** | ElevenLabs | State-of-the-art AI voice generator offering realistic voices, voice cloning, and AI dubbing in numerous languages. Ideal for content creators and businesses. | [ElevenLabs](https://elevenlabs.io/) |
+| **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | [Spokio](https://spokio.pro/) |
 | **Google Cloud Text-to-Speech** | Google | A powerful TTS API providing a large variety of natural-sounding voices and languages, with extensive customization options for pitch, speaking rate, and voice profiles. | [Google Cloud TTS](https://cloud.google.com/text-to-speech) |
 | **Deepgram Aura** | Deepgram | Specializing in low-latency TTS designed for real-time conversational AI, making virtual interactions seamless and natural. | [Deepgram Aura](https://deepgram.com/aura) |
 | **NVIDIA NeMo** | NVIDIA | An end-to-end platform for building, training, and deploying generative AI models, including advanced Text-to-Speech and Automatic Speech Recognition (ASR). | [NVIDIA NeMo](https://developer.nvidia.com/nemo) |
