@@ -2,6 +2,8 @@
 
 A meticulously curated and continuously updated list of the most influential tools, cutting-edge models, and essential resources in the Text-to-Speech (TTS) and AI Voice Generation sector. Discover everything from commercial AI voice platforms to open-source speech synthesis libraries, real-time TTS solutions, and advanced voice cloning techniques.
 
+-   **[voicetoinstrument.com](https://voicetoinstrument.com):** Convert voice recordings into instrumental tracks using AI — useful for music production and audio content repurposing.
+
 ## Why Explore Text-to-Speech?
 
 Text-to-Speech technology has revolutionized how we interact with digital content, creating opportunities for:
