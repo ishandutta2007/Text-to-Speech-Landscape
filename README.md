@@ -42,8 +42,8 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | **Play.ht** | Play.ht | Professional AI voices and "Ultra-Realistic" studio editor for long-form content. | **Free** (12.5k chars) / $39 | [Play.ht](https://play.ht/) |
 | **Murf.ai** | Murf.ai | AI voiceovers with a built-in video editor, ideal for creators and presentations. | **Free** (10 mins total) / $19 | [Murf.ai](https://murf.ai/) |
 | **NVIDIA NeMo** | NVIDIA | Platform for building, training, and deploying generative AI models, including TTS and ASR. | **Free** (API Credits) / Enterprise | [NVIDIA NeMo](https://developer.nvidia.com/nemo) |
-| **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) ||
-| **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | [Spokio](https://spokio.pro/) ||
+| **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
+| **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | **Free** (API Credits) / Enterprise | [Spokio](https://spokio.pro/) ||
 
 ### Open-Source Text-to-Speech Libraries & Projects
 
