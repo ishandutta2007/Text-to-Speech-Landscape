@@ -31,15 +31,19 @@ The field of Text-to-Speech (TTS) and AI voice synthesis has matured significant
 
 Leading platforms offering robust, scalable, and high-quality Text-to-Speech APIs and services for various applications.
 
-| Service/Model | Organization | Key Features | Link |
-| --- | --- | --- | --- |
-| **OpenAI TTS** | OpenAI | High-quality, real-time streaming TTS models for applications requiring natural AI voices. | [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) |
-| **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
-| **ElevenLabs** | ElevenLabs | State-of-the-art AI voice generator offering realistic voices, voice cloning, and AI dubbing in numerous languages. Ideal for content creators and businesses. | [ElevenLabs](https://elevenlabs.io/) |
-| **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | [Spokio](https://spokio.pro/) |
-| **Google Cloud Text-to-Speech** | Google | A powerful TTS API providing a large variety of natural-sounding voices and languages, with extensive customization options for pitch, speaking rate, and voice profiles. | [Google Cloud TTS](https://cloud.google.com/text-to-speech) |
-| **Deepgram Aura** | Deepgram | Specializing in low-latency TTS designed for real-time conversational AI, making virtual interactions seamless and natural. | [Deepgram Aura](https://deepgram.com/aura) |
-| **NVIDIA NeMo** | NVIDIA | An end-to-end platform for building, training, and deploying generative AI models, including advanced Text-to-Speech and Automatic Speech Recognition (ASR). | [NVIDIA NeMo](https://developer.nvidia.com/nemo) |
+| Service/Model | Organization | Key Features | Min. Monthly Subscription | Link |
+| --- | --- | --- | --- | --- |
+| **OpenAI TTS** | OpenAI | High-quality, real-time streaming TTS models for applications requiring natural AI voices. | Pay-as-you-go ($5 free credit) | [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) |
+| **ElevenLabs** | ElevenLabs | State-of-the-art AI voice generator offering realistic voices, voice cloning, and AI dubbing. | **Free** (10k chars/mo) / $5 | [ElevenLabs](https://elevenlabs.io/) |
+| **Google Cloud TTS** | Google | Powerful TTS API with a large variety of natural-sounding voices and extensive customization. | **Free** (1M+ chars/mo) / PAYG | [Google Cloud TTS](https://cloud.google.com/text-to-speech) |
+| **Deepgram Aura** | Deepgram | Specializing in low-latency TTS designed for real-time conversational AI and virtual interactions. | **Free** ($200 credit) / PAYG | [Deepgram Aura](https://deepgram.com/aura) |
+| **AWS Polly** | Amazon | Generative, Neural and Standard TTS voices with deep AWS ecosystem integration. | **Free** (1M+ chars/mo) / PAYG | [AWS Polly](https://aws.amazon.com/polly/) |
+| **Azure AI Speech** | Microsoft | High-quality neural voices with advanced fine-tuning, emotion, and enterprise scalability. | **Free** (0.5M chars/mo) / PAYG | [Azure AI Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech) |
+| **Play.ht** | Play.ht | Professional AI voices and "Ultra-Realistic" studio editor for long-form content. | **Free** (12.5k chars) / $39 | [Play.ht](https://play.ht/) |
+| **Murf.ai** | Murf.ai | AI voiceovers with a built-in video editor, ideal for creators and presentations. | **Free** (10 mins total) / $19 | [Murf.ai](https://murf.ai/) |
+| **NVIDIA NeMo** | NVIDIA | Platform for building, training, and deploying generative AI models, including TTS and ASR. | **Free** (API Credits) / Enterprise | [NVIDIA NeMo](https://developer.nvidia.com/nemo) |
+| **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) ||
+| **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | [Spokio](https://spokio.pro/) ||
 
 ### Open-Source Text-to-Speech Libraries & Projects
 
