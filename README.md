@@ -96,6 +96,9 @@ A collection of influential code repositories and product demonstrations showcas
 
 | Project/Samples | Pretrained Models | Code Link | Paper/Arxiv ID | Output Quality | Year of Launch | Description |
 | --- | :---: | :---: | :---: | :---: | :---: | --- |
+| [Fish Speech v1.5](https://github.com/fishaudio/fish-speech) | -- | [Code](https://github.com/fishaudio/fish-speech) | [Codebase](https://github.com/fishaudio/fish-speech) | A+ | 2026 | SOTA multilingual, multi-speaker model with superior naturalness. |
+| [Kokoro-82M Samples](https://github.com/hexgrad/kokoro) | -- | [Code](https://github.com/hexgrad/kokoro) | -- | A | 2025 | Ultra-efficient CPU-based model with studio-quality output. |
+| [F5-TTS Samples](https://github.com/SWivid/F5-TTS) | -- | [Code](https://github.com/SWivid/F5-TTS) | [2410.06885](https://arxiv.org/abs/2410.06885) | A | 2024 | Diffusion-based zero-shot cloning with impressive prosody. |
 | [MeloTTS Samples](https://github.com/myshell-ai/MeloTTS) | -- | [Code](https://github.com/myshell-ai/MeloTTS) | [Codebase](https://github.com/myshell-ai/MeloTTS) | B | 2024 | Multilingual, multi-speaker TTS model for high-quality audio generation. |
 | [Parler-TTS Samples](https://github.com/huggingface/parler-tts) | -- | [Code](https://github.com/huggingface/parler-tts) | [2402.01912](https://arxiv.org/abs/2402.01912) | B | 2024 | Samples from a lightweight model producing natural-sounding speech. |
 | [XTTS-v2 Samples](https://coqui.ai/xtts-v2-demo) | -- | [Code](https://github.com/idiap/coqui-ai-TTS) | [2309.02055](https://arxiv.org/abs/2309.02055) | A | 2023 | Demonstrations of Coqui's advanced voice cloning with emotion transfer. |
