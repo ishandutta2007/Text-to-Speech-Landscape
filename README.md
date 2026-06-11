@@ -207,3 +207,7 @@ If you find this collection of Text-to-Speech resources helpful, or if it has sa
 -   [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
 
 Every contribution, no matter how small, makes a huge difference in advancing the Text-to-Speech landscape! 🙏
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
