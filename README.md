@@ -1,5 +1,15 @@
 # Awesome Text-to-Speech (TTS): Models, Tools, and Resources for AI Voice Generation 🗣️
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/network)
+[![GitHub license](https://img.shields.io/github/license/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/blob/master/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.11-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ishandutta2007?style=flat-square&color=pink)](https://github.com/sponsors/ishandutta2007)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/commits/master)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ishandutta2007?style=social)](https://twitter.com/ishandutta2007)
+
 A meticulously curated and continuously updated list of the most influential tools, cutting-edge models, and essential resources in the Text-to-Speech (TTS) and AI Voice Generation sector. Discover everything from commercial AI voice platforms to open-source speech synthesis libraries, real-time TTS solutions, and advanced voice cloning techniques.
 
 -   **[voicetoinstrument.com](https://voicetoinstrument.com):** Convert voice recordings into instrumental tracks using AI — useful for music production and audio content repurposing.
