@@ -1,6 +1,6 @@
 # Awesome Text-to-Speech (TTS): Models, Tools, and Resources for AI Voice Generation 🗣️
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/network)
 [![GitHub license](https://img.shields.io/github/license/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/blob/master/LICENSE)
@@ -9,6 +9,10 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ishandutta2007?style=flat-square&color=pink)](https://github.com/sponsors/ishandutta2007)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/commits/master)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ishandutta2007?style=social)](https://twitter.com/ishandutta2007)
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
+
 
 A meticulously curated and continuously updated list of the most influential tools, cutting-edge models, and essential resources in the Text-to-Speech (TTS) and AI Voice Generation sector. Discover everything from commercial AI voice platforms to open-source speech synthesis libraries, real-time TTS solutions, and advanced voice cloning techniques.
 
