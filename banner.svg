@@ -1,0 +1,42 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" />
+      <feOffset dx="2" dy="2" result="offsetblur" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="200" rx="15" fill="url(#grad1)" />
+  
+  <!-- Waveform representation -->
+  <path d="M 50 100 Q 75 50 100 100 T 150 100 T 200 100 T 250 100 T 300 100 T 350 100 T 400 100 T 450 100 T 500 100 T 550 100 T 600 100 T 650 100 T 700 100 T 750 100" 
+        stroke="white" stroke-width="3" fill="none" opacity="0.6">
+    <animate attributeName="d" 
+             values="M 50 100 Q 75 50 100 100 T 150 100 T 200 100 T 250 100 T 300 100 T 350 100 T 400 100 T 450 100 T 500 100 T 550 100 T 600 100 T 650 100 T 700 100 T 750 100;
+                     M 50 100 Q 75 150 100 100 T 150 100 T 200 100 T 250 100 T 300 100 T 350 100 T 400 100 T 450 100 T 500 100 T 550 100 T 600 100 T 650 100 T 700 100 T 750 100;
+                     M 50 100 Q 75 50 100 100 T 150 100 T 200 100 T 250 100 T 300 100 T 350 100 T 400 100 T 450 100 T 500 100 T 550 100 T 600 100 T 650 100 T 700 100 T 750 100" 
+             dur="3s" repeatCount="indefinite" />
+  </path>
+
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle" filter="url(#shadow)">
+    Awesome Text-to-Speech
+  </text>
+  <text x="400" y="130" font-family="Arial, sans-serif" font-size="18" fill="white" text-anchor="middle" opacity="0.9">
+    Models, Tools, and Resources for AI Voice Generation
+  </text>
+  
+  <!-- Icon or Symbol -->
+  <circle cx="50" cy="50" r="10" fill="white" opacity="0.3" />
+  <circle cx="750" cy="150" r="20" fill="white" opacity="0.2" />
+  <circle cx="700" cy="40" r="15" fill="white" opacity="0.1" />
+</svg>

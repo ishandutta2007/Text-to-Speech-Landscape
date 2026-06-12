@@ -1,37 +1,57 @@
-# Awesome Text-to-Speech (TTS): Models, Tools, and Resources for AI Voice Generation 🗣️
+<div align="center">
+  <img src="banner.svg" alt="Awesome Text-to-Speech Banner" width="100%" />
+</div>
+
+# Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2025
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/network)
-[![GitHub license](https://img.shields.io/github/license/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/blob/master/LICENSE)
-[![Python Version](https://img.shields.io/badge/python-3.11-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ishandutta2007?style=flat-square&color=pink)](https://github.com/sponsors/ishandutta2007)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/Text-to-Speech-Landscape?style=flat-square)](https://github.com/ishandutta2007/Text-to-Speech-Landscape/commits/master)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ishandutta2007?style=social)](https://twitter.com/ishandutta2007)
-  <a href="https://github.com/ishandutta2007">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-  </a>
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge&color=gold)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge&color=blue)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/network)
+[![GitHub license](https://img.shields.io/github/license/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/blob/master/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ishandutta2007?style=for-the-badge&color=pink)](https://github.com/sponsors/ishandutta2007)
+[![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/commits/master)
+[![Contributors](https://img.shields.io/github/contributors/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/graphs/contributors)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/ishandutta2007?style=for-the-badge&logo=twitter)](https://twitter.com/ishandutta2007)
 
+---
 
-A meticulously curated and continuously updated list of the most influential tools, cutting-edge models, and essential resources in the Text-to-Speech (TTS) and AI Voice Generation sector. Discover everything from commercial AI voice platforms to open-source speech synthesis libraries, real-time TTS solutions, and advanced voice cloning techniques.
+### 🚀 The Ultimate Guide to AI Voice Generation, Speech Synthesis, and Neural Voice Cloning
 
--   **[voicetoinstrument.com](https://voicetoinstrument.com):** Convert voice recordings into instrumental tracks using AI — useful for music production and audio content repurposing.
+Welcome to the most comprehensive, meticulously curated, and continuously updated list of **Text-to-Speech (TTS)** resources. Whether you are looking for the **best open-source TTS models of 2025**, searching for **low-latency TTS APIs for AI agents**, or exploring **high-fidelity voice cloning for content creation**, you've found the right place.
 
-## Why Explore Text-to-Speech?
+> [!TIP]
+> **Looking for the best ElevenLabs alternatives?** This repository tracks the rapidly evolving landscape of both commercial SaaS and local-first neural speech synthesis.
 
-Text-to-Speech technology has revolutionized how we interact with digital content, creating opportunities for:
-*   **Enhanced Accessibility:** Providing screen readers and voice interfaces for visually impaired users.
-*   **Content Creation:** Generating realistic voiceovers for YouTube videos, podcasts, audiobooks, and e-learning modules.
-*   **Virtual Assistants & Chatbots:** Powering natural-sounding conversational AI experiences.
-*   **Language Learning:** Offering pronunciation guides and interactive speech exercises.
-*   **Creative Arts:** Crafting unique character voices for games and animations.
+---
 
-This repository aims to be your go-to guide for navigating the dynamic world of synthetic speech.
+## 🗺️ Quick Navigation
 
-## Current State of Text-to-Speech (as of 2024) 📈
+- [Why Text-to-Speech?](#-why-explore-text-to-speech)
+- [Current Trends (2025)](#-current-state-of-text-to-speech-as-of-2024-)
+- [Commercial & Cloud Platforms](#-cloud-based--commercial-ai-voice-generation-platforms)
+- [Open-Source Libraries](#-open-source-text-to-speech-libraries--projects)
+- [Advanced Voice Cloning](#-advanced-voice-cloning--neural-voice-synthesis-)
+- [Research & Community](#-notable-research-papers--community-discussions-)
+- [FAQ & Use Cases](#-frequently-asked-questions--seo-insights)
 
-The field of Text-to-Speech (TTS) and AI voice synthesis has matured significantly, with modern neural voice models generating audio that is nearly indistinguishable from human speech. Key trends and advancements include:
+---
+
+## 🔊 Why Explore Text-to-Speech?
+
+Text-to-Speech technology has moved beyond robotic voices. Today, it powers:
+*   **Accessibility First:** High-quality screen readers for the visually impaired.
+*   **Automated Content Creation:** Realistic voiceovers for YouTube, podcasts, and e-learning.
+*   **Next-Gen AI Agents:** Real-time conversational AI with human-like prosody.
+*   **Multilingual Support:** Instant translation and dubbing for global reach.
+*   **Personalization:** Custom voice clones for gaming and virtual assistants.
+
+---
+
+## 📈 Current State of Text-to-Speech (2025 Update)
+
+The landscape of **AI voice synthesis** has shifted from basic concatenation to advanced **Generative Speech Models**. Key highlights:
 
 -   **Hyper-realistic and Natural Speech Synthesis:** Innovations in deep learning and neural network architectures have led to highly natural, expressive, and emotionally nuanced synthetic voices. 🎤
 -   **Next-Generation Architectures:** The adoption of State Space Models (SSMs), Diffusion Models, and advanced transformer-based architectures is offering superior performance, efficiency, and voice quality in speech generation. 🧠
@@ -45,35 +65,38 @@ The field of Text-to-Speech (TTS) and AI voice synthesis has matured significant
 
 Leading platforms offering robust, scalable, and high-quality Text-to-Speech APIs and services for various applications.
 
-| Service/Model | Organization | Key Features | Min. Monthly Subscription | Link |
+| Service/Model | Organization | Key Features | Min. Monthly Subscription | Company Size | Link |
+| --- | --- | --- | --- | --- | --- |
+| **NVIDIA NeMo** | NVIDIA | Platform for building, training, and deploying generative AI models, including TTS and ASR. | **Free** (API Credits) / Enterprise | **$3.3T+** (Market Cap) | [NVIDIA NeMo](https://developer.nvidia.com/nemo) |
+| **Azure AI Speech** | Microsoft | High-quality neural voices with advanced fine-tuning, emotion, and enterprise scalability. | **Free** (0.5M chars/mo) / PAYG | **$3.2T+** (Market Cap) | [Azure AI Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech) |
+| **Google Cloud TTS** | Google | Powerful TTS API with a large variety of natural-sounding voices and extensive customization. | **Free** (1M+ chars/mo) / PAYG | **$2.2T+** (Market Cap) | [Google Cloud TTS](https://cloud.google.com/text-to-speech) |
+| **AWS Polly** | Amazon | Generative, Neural and Standard TTS voices with deep AWS ecosystem integration. | **Free** (1M+ chars/mo) / PAYG | **$1.9T+** (Market Cap) | [AWS Polly](https://aws.amazon.com/polly/) |
+| **OpenAI TTS** | OpenAI | High-quality, real-time streaming TTS models for applications requiring natural AI voices. | Pay-as-you-go ($5 free credit) | **$852B** (Valuation) | [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) |
+| **ElevenLabs** | ElevenLabs | State-of-the-art AI voice generator offering realistic voices, voice cloning, and AI dubbing. | **Free** (10k chars/mo) / $5 | **$11B** (Valuation) | [ElevenLabs](https://elevenlabs.io/) |
+| **Deepgram Aura** | Deepgram | Specializing in low-latency TTS designed for real-time conversational AI and virtual interactions. | **Free** ($200 credit) / PAYG | **$1.2B** (Valuation) | [Deepgram Aura](https://deepgram.com/aura) |
+| **Murf.ai** | Murf.ai | AI voiceovers with a built-in video editor, ideal for creators and presentations. | **Free** (10 mins total) / $19 | **$46M** (Valuation) | [Murf.ai](https://murf.ai/) |
+| **Play.ht** | Play.ht | Professional AI voices and "Ultra-Realistic" studio editor for long-form content. | **Free** (12.5k chars) / $39 | **$15M** (Valuation) | [Play.ht](https://play.ht/) |
+| **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | **Free** (API Credits) / Enterprise | **Indie** (Small) | [Spokio](https://spokio.pro/) |
+| **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | **Indie** (Project) | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
+
+### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
+
+If you are looking for **free text-to-speech models for commercial use** or want to run **TTS locally on a CPU**, these open-source projects provide the best balance of quality and privacy.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tjZndxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx66i7dG5m/giphy.gif" alt="Sound Wave Animation" width="300px" />
+</div>
+
+| Service/Model | Organization | Key Features | Primary Language | Link |
 | --- | --- | --- | --- | --- |
-| **OpenAI TTS** | OpenAI | High-quality, real-time streaming TTS models for applications requiring natural AI voices. | Pay-as-you-go ($5 free credit) | [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) |
-| **ElevenLabs** | ElevenLabs | State-of-the-art AI voice generator offering realistic voices, voice cloning, and AI dubbing. | **Free** (10k chars/mo) / $5 | [ElevenLabs](https://elevenlabs.io/) |
-| **Google Cloud TTS** | Google | Powerful TTS API with a large variety of natural-sounding voices and extensive customization. | **Free** (1M+ chars/mo) / PAYG | [Google Cloud TTS](https://cloud.google.com/text-to-speech) |
-| **Deepgram Aura** | Deepgram | Specializing in low-latency TTS designed for real-time conversational AI and virtual interactions. | **Free** ($200 credit) / PAYG | [Deepgram Aura](https://deepgram.com/aura) |
-| **AWS Polly** | Amazon | Generative, Neural and Standard TTS voices with deep AWS ecosystem integration. | **Free** (1M+ chars/mo) / PAYG | [AWS Polly](https://aws.amazon.com/polly/) |
-| **Azure AI Speech** | Microsoft | High-quality neural voices with advanced fine-tuning, emotion, and enterprise scalability. | **Free** (0.5M chars/mo) / PAYG | [Azure AI Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech) |
-| **Play.ht** | Play.ht | Professional AI voices and "Ultra-Realistic" studio editor for long-form content. | **Free** (12.5k chars) / $39 | [Play.ht](https://play.ht/) |
-| **Murf.ai** | Murf.ai | AI voiceovers with a built-in video editor, ideal for creators and presentations. | **Free** (10 mins total) / $19 | [Murf.ai](https://murf.ai/) |
-| **NVIDIA NeMo** | NVIDIA | Platform for building, training, and deploying generative AI models, including TTS and ASR. | **Free** (API Credits) / Enterprise | [NVIDIA NeMo](https://developer.nvidia.com/nemo) |
-| **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
-| **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | **Free** (API Credits) / Enterprise | [Spokio](https://spokio.pro/) ||
-
-### Open-Source Text-to-Speech Libraries & Projects
-
-Explore powerful open-source toolkits and projects for local deployment, research, and custom TTS development.
-
-| Service/Model | Organization | Key Features | Link |
-| --- | --- | --- | --- |
-| **🐸 Coqui TTS** | Coqui | A versatile open-source deep learning toolkit for Text-to-Speech, featuring pretrained models for over 1100 languages, voice cloning, and model training capabilities. | [Coqui TTS on GitHub](https://github.com/coqui-ai/TTS) |
-| **Chatterbox** | Resemble AI | An open-source collection of voice models offering advanced features like emotion control and zero-shot voice cloning, perfect for expressive speech synthesis. | [Chatterbox on GitHub](https://github.com/resemble-ai/chatterbox) |
-| **ESPnet-TTS** | Various | A comprehensive open-source toolkit providing implementations of popular and state-of-the-art TTS models, ideal for speech research and development. | [ESPnet on GitHub](https://github.com/espnet/espnet) |
-| **Parler-TTS** | Hugging Face | A lightweight and efficient model capable of generating high-quality, natural-sounding speech. Available through the Hugging Face ecosystem. | [Parler-TTS on Hugging Face](https://huggingface.co/parler-tts) |
-| **KittenTTS** | KittenML | A lightweight ONNX text-to-speech library with 15M-80M parameter models, built-in voices, and CPU inference without requiring a GPU. | [KittenTTS on GitHub](https://github.com/KittenML/KittenTTS) |
-| **Mozilla TTS** | Mozilla | An open-source project focused on building speech-enabled applications, providing tools and resources for developers. | [Mozilla TTS on GitHub](https://github.com/mozilla/TTS) |
-| **MaryTTS** | DFKI | An open-source, Java-based Text-to-Speech engine offering robust multilingual support and various voice customization options. | [MaryTTS on GitHub](https://github.com/marytts/marytts) |
-| **eSpeak NG** | Various | A compact and efficient open-source TTS engine, known for its small footprint and broad language support, suitable for embedded systems. | [eSpeak NG on GitHub](https://github.com/espeak-ng/espeak-ng) |
-| **Piper** | Rhasspy | A fast, entirely local neural text-to-speech system that prioritizes privacy and on-device inference, ideal for offline applications. | [Piper on GitHub](https://github.com/rhasspy/piper) |
+| **🐸 Coqui TTS** | Coqui | **Best overall open-source TTS.** Supports 1100+ languages, zero-shot voice cloning, and fine-tuning. | Python / Multilingual | [GitHub](https://github.com/coqui-ai/TTS) |
+| **Chatterbox** | Resemble AI | Advanced **neural voice synthesis** with emotion control and high-fidelity cloning. | Python | [GitHub](https://github.com/resemble-ai/chatterbox) |
+| **Kokoro-82M** | Hexgrad | **Best SOTA CPU TTS.** Ultra-fast, studio quality, only 82M parameters. | ONNX / Python | [GitHub](https://github.com/hexgrad/kokoro) |
+| **F5-TTS** | SWivid | **Flow Matching TTS.** Incredible naturalness and prosody using DiT architectures. | Python | [GitHub](https://github.com/SWivid/F5-TTS) |
+| **Piper** | Rhasspy | **Fastest local TTS.** Optimized for low-end hardware and offline use. | C++ / Python | [GitHub](https://github.com/rhasspy/piper) |
+| **Parler-TTS** | Hugging Face | Lightweight, controllable speech generation with high naturalness. | Python | [HF](https://huggingface.co/parler-tts) |
+| **KittenTTS** | KittenML | ONNX-based library for **low-latency TTS** without requiring a GPU. | Python / ONNX | [GitHub](https://github.com/KittenML/KittenTTS) |
+| **Fish Speech** | Fish Audio | SOTA multilingual, multi-speaker model with superior naturalness. | Python | [GitHub](https://github.com/fishaudio/fish-speech) |
 
 ### Advanced Voice Cloning & Neural Voice Synthesis 🧬
 
@@ -199,7 +222,7 @@ Explore influential academic papers and preprints in the field of Text-to-Speech
 
 ### ✨ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Text-to-Speech-Landscape&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Text-to-Speech-Landscape&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Text-to-Speech&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Text-to-Speech&type=date&legend=top-left)
 
 ## 💬 Community & Support for Text-to-Speech Enthusiasts
 
@@ -210,6 +233,34 @@ Connect with the community, get support, and stay informed about the latest in T
 -   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions on AI voice generation.
 -   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news, updates, and insights into the world of synthetic speech.
 -   **🐦 [Github](https://github.com/ishandutta2007):** Follow me on Github for the latest commits and updates on this and other AI projects.
+
+## 🎯 Key Use Cases for AI Voice Generation
+
+Explore how **Text-to-Speech** and **Voice Cloning** are being used across industries:
+
+*   **🎙️ Podcast Automation:** Convert written articles into high-quality audio episodes instantly.
+*   **🎮 Video Game Development:** Dynamic NPC dialogue using local-first TTS like **Piper** or **Kokoro**.
+*   **🛠️ Customer Support:** Low-latency conversational AI for 24/7 automated support.
+*   **📖 Accessible E-Learning:** Making educational content accessible with natural-sounding voices.
+*   **🎬 Content Localization:** Dubbing videos into multiple languages while preserving the original speaker's emotion.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ) & SEO Insights
+
+### What is the best open-source Text-to-Speech model in 2025?
+As of 2025, **Kokoro-82M** is widely considered the best for CPU-based local inference due to its studio quality and small footprint. For high-fidelity and expressive speech, **F5-TTS** and **Fish Speech** are leading the way in naturalness.
+
+### Are there free ElevenLabs alternatives for voice cloning?
+Yes! Projects like **Coqui XTTS-v2** and **OpenVoice** offer high-quality voice cloning for free. If you are looking for local-first alternatives, check out **F5-TTS**.
+
+### How do I achieve low-latency TTS for AI agents?
+To achieve sub-200ms latency, it is recommended to use **Deepgram Aura**, **Cartesia Sonic**, or optimized local models like **Piper** (C++ implementation) and **Kokoro-82M** with ONNX runtime.
+
+### Can I use these TTS models for commercial projects?
+Many models listed here (like **OpenAI TTS**, **ElevenLabs**, and **Azure AI Speech**) have clear commercial tiers. For open-source models, look for those with **MIT** or **Apache 2.0** licenses, such as **Piper** and **Kokoro**.
+
+---
 
 ## 💖 Support & Sponsorship
 
