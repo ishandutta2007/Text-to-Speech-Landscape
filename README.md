@@ -5,15 +5,15 @@
 # Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2025
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge&color=gold)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge&color=blue)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/network)
-[![GitHub license](https://img.shields.io/github/license/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/blob/master/LICENSE)
-[![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ishandutta2007?style=for-the-badge&color=pink)](https://github.com/sponsors/ishandutta2007)
-[![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/commits/master)
-[![Contributors](https://img.shields.io/github/contributors/ishandutta2007/Awesome-Text-to-Speech?style=for-the-badge)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/graphs/contributors)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/ishandutta2007?style=for-the-badge&logo=twitter)](https://twitter.com/ishandutta2007)
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-to-Speech?style=social&color=gold)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Text-to-Speech?style=social&color=blue)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/network)
+[![GitHub license](https://img.shields.io/github/license/ishandutta2007/Awesome-Text-to-Speech?style=social)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/blob/master/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg?style=social&logo=python&logoColor=white)](https://www.python.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social)](http://makeapullrequest.com)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ishandutta2007?style=social&color=pink)](https://github.com/sponsors/ishandutta2007)
+[![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Text-to-Speech?style=social)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/commits/master)
+[![Contributors](https://img.shields.io/github/contributors/ishandutta2007/Awesome-Text-to-Speech?style=social)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/graphs/contributors)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/ishandutta2007?style=social&logo=twitter)](https://twitter.com/ishandutta2007)
 
 ---
 
@@ -89,13 +89,13 @@ If you are looking for **free text-to-speech models for commercial use** or want
 
 | Service/Model | Organization | Key Features | Primary Language | Link |
 | --- | --- | --- | --- | --- |
-| **🐸 Coqui TTS** | Coqui | **Best overall open-source TTS.** Supports 1100+ languages, zero-shot voice cloning, and fine-tuning. | Python / Multilingual | [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=for-the-badge&color=white)](https://github.com/coqui-ai/TTS/stargazers) |
-| **Fish Speech** | Fish Audio | SOTA multilingual, multi-speaker model with superior naturalness. | Python | [![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=for-the-badge&color=white)](https://github.com/fishaudio/fish-speech/stargazers) |
-| **Chatterbox** | Resemble AI | Advanced **neural voice synthesis** with emotion control and high-fidelity cloning. | Python | [![GitHub stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=for-the-badge&color=white)](https://github.com/resemble-ai/chatterbox/stargazers) |
-| **F5-TTS** | SWivid | **Flow Matching TTS.** Incredible naturalness and prosody using DiT architectures. | Python | [![GitHub stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=for-the-badge&color=white)](https://github.com/SWivid/F5-TTS/stargazers) |
-| **KittenTTS** | KittenML | ONNX-based library for **low-latency TTS** without requiring a GPU. | Python / ONNX | [![GitHub stars](https://img.shields.io/github/stars/KittenML/KittenTTS?style=for-the-badge&color=white)](https://github.com/KittenML/KittenTTS/stargazers) |
-| **Piper** | Rhasspy | **Fastest local TTS.** Optimized for low-end hardware and offline use. | C++ / Python | [![GitHub stars](https://img.shields.io/github/stars/rhasspy/piper?style=for-the-badge&color=white)](https://github.com/rhasspy/piper/stargazers) |
-| **Kokoro-82M** | Hexgrad | **Best SOTA CPU TTS.** Ultra-fast, studio quality, only 82M parameters. | ONNX / Python | [![GitHub stars](https://img.shields.io/github/stars/hexgrad/kokoro?style=for-the-badge&color=white)](https://github.com/hexgrad/kokoro/stargazers) |
+| **🐸 Coqui TTS** | Coqui | **Best overall open-source TTS.** Supports 1100+ languages, zero-shot voice cloning, and fine-tuning. | Python / Multilingual | [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) |
+| **Fish Speech** | Fish Audio | SOTA multilingual, multi-speaker model with superior naturalness. | Python | [![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers) |
+| **Chatterbox** | Resemble AI | Advanced **neural voice synthesis** with emotion control and high-fidelity cloning. | Python | [![GitHub stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social&color=white)](https://github.com/resemble-ai/chatterbox/stargazers) |
+| **F5-TTS** | SWivid | **Flow Matching TTS.** Incredible naturalness and prosody using DiT architectures. | Python | [![GitHub stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=social&color=white)](https://github.com/SWivid/F5-TTS/stargazers) |
+| **KittenTTS** | KittenML | ONNX-based library for **low-latency TTS** without requiring a GPU. | Python / ONNX | [![GitHub stars](https://img.shields.io/github/stars/KittenML/KittenTTS?style=social&color=white)](https://github.com/KittenML/KittenTTS/stargazers) |
+| **Piper** | Rhasspy | **Fastest local TTS.** Optimized for low-end hardware and offline use. | C++ / Python | [![GitHub stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers) |
+| **Kokoro-82M** | Hexgrad | **Best SOTA CPU TTS.** Ultra-fast, studio quality, only 82M parameters. | ONNX / Python | [![GitHub stars](https://img.shields.io/github/stars/hexgrad/kokoro?style=social&color=white)](https://github.com/hexgrad/kokoro/stargazers) |
 | **Parler-TTS** | Hugging Face | Lightweight, controllable speech generation with high naturalness. | Python | [HF](https://huggingface.co/parler-tts) |
 
 ### Advanced Voice Cloning & Neural Voice Synthesis 🧬
