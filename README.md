@@ -87,7 +87,7 @@ If you are looking for **free text-to-speech models for commercial use** or want
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tjZndxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx66i7dG5m/giphy.gif" alt="Sound Wave Animation" width="300px" />
 </div>
 
-| Service/Model | Organization | Key Features | Primary Language | Link |
+| Service/Model | Organization | Key Features | Primary Language | Repository |
 | --- | --- | --- | --- | --- |
 | **🐸 Coqui TTS** | Coqui | **Best overall open-source TTS.** Supports 1100+ languages, zero-shot voice cloning, and fine-tuning. | Python / Multilingual | [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) |
 | **Fish Speech** | Fish Audio | SOTA multilingual, multi-speaker model with superior naturalness. | Python | [![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers) |
