@@ -89,14 +89,14 @@ If you are looking for **free text-to-speech models for commercial use** or want
 
 | Service/Model | Organization | Key Features | Primary Language | Link |
 | --- | --- | --- | --- | --- |
-| **🐸 Coqui TTS** | Coqui | **Best overall open-source TTS.** Supports 1100+ languages, zero-shot voice cloning, and fine-tuning. | Python / Multilingual | [GitHub](https://github.com/coqui-ai/TTS) |
-| **Chatterbox** | Resemble AI | Advanced **neural voice synthesis** with emotion control and high-fidelity cloning. | Python | [GitHub](https://github.com/resemble-ai/chatterbox) |
-| **Kokoro-82M** | Hexgrad | **Best SOTA CPU TTS.** Ultra-fast, studio quality, only 82M parameters. | ONNX / Python | [GitHub](https://github.com/hexgrad/kokoro) |
-| **F5-TTS** | SWivid | **Flow Matching TTS.** Incredible naturalness and prosody using DiT architectures. | Python | [GitHub](https://github.com/SWivid/F5-TTS) |
-| **Piper** | Rhasspy | **Fastest local TTS.** Optimized for low-end hardware and offline use. | C++ / Python | [GitHub](https://github.com/rhasspy/piper) |
+| **🐸 Coqui TTS** | Coqui | **Best overall open-source TTS.** Supports 1100+ languages, zero-shot voice cloning, and fine-tuning. | Python / Multilingual | [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) |
+| **Fish Speech** | Fish Audio | SOTA multilingual, multi-speaker model with superior naturalness. | Python | [![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers) |
+| **Chatterbox** | Resemble AI | Advanced **neural voice synthesis** with emotion control and high-fidelity cloning. | Python | [![GitHub stars](https://img.shields.io/github/stars/resemble-ai/chatterbox?style=social&color=white)](https://github.com/resemble-ai/chatterbox/stargazers) |
+| **F5-TTS** | SWivid | **Flow Matching TTS.** Incredible naturalness and prosody using DiT architectures. | Python | [![GitHub stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=social&color=white)](https://github.com/SWivid/F5-TTS/stargazers) |
+| **KittenTTS** | KittenML | ONNX-based library for **low-latency TTS** without requiring a GPU. | Python / ONNX | [![GitHub stars](https://img.shields.io/github/stars/KittenML/KittenTTS?style=social&color=white)](https://github.com/KittenML/KittenTTS/stargazers) |
+| **Piper** | Rhasspy | **Fastest local TTS.** Optimized for low-end hardware and offline use. | C++ / Python | [![GitHub stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers) |
+| **Kokoro-82M** | Hexgrad | **Best SOTA CPU TTS.** Ultra-fast, studio quality, only 82M parameters. | ONNX / Python | [![GitHub stars](https://img.shields.io/github/stars/hexgrad/kokoro?style=social&color=white)](https://github.com/hexgrad/kokoro/stargazers) |
 | **Parler-TTS** | Hugging Face | Lightweight, controllable speech generation with high naturalness. | Python | [HF](https://huggingface.co/parler-tts) |
-| **KittenTTS** | KittenML | ONNX-based library for **low-latency TTS** without requiring a GPU. | Python / ONNX | [GitHub](https://github.com/KittenML/KittenTTS) |
-| **Fish Speech** | Fish Audio | SOTA multilingual, multi-speaker model with superior naturalness. | Python | [GitHub](https://github.com/fishaudio/fish-speech) |
 
 ### Advanced Voice Cloning & Neural Voice Synthesis 🧬
 
