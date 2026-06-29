@@ -4,6 +4,7 @@
 
 # Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2025
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Text-to-Speech?style=social&color=gold)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Text-to-Speech?style=social&color=blue)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/network)
@@ -14,6 +15,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Text-to-Speech?style=social)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/commits/master)
 [![Contributors](https://img.shields.io/github/contributors/ishandutta2007/Awesome-Text-to-Speech?style=social)](https://github.com/ishandutta2007/Awesome-Text-to-Speech/graphs/contributors)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/ishandutta2007?style=social&logo=twitter)](https://twitter.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ---
 
@@ -59,13 +61,13 @@ The landscape of **AI voice synthesis** has shifted from basic concatenation to 
 -   **Advanced Voice Cloning and Style Transfer:** Cutting-edge techniques allow for high-fidelity voice cloning from minimal audio samples and the transfer of speaking style and emotion across different voices. 🎭
 -   **Multilingual and Cross-Lingual TTS:** Models are increasingly capable of generating speech in numerous languages with accurate pronunciation and intonation, breaking down language barriers.
 
-## Comprehensive List of Text-to-Speech (TTS) Resources 🌐
+## 📚 Comprehensive List of Text-to-Speech (TTS) Resources 🌐
 
-### Cloud-based & Commercial AI Voice Generation Platforms
+### ☁️ Cloud-based & Commercial AI Voice Generation Platforms
 
 Leading platforms offering robust, scalable, and high-quality Text-to-Speech APIs and services for various applications.
 
-| Service/Model | Organization | Key Features | Min. Monthly Subscription | Company Size | Link |
+| 🛠️ Service/Model | 🏢 Organization | 🌟 Key Features | 💰 Min. Monthly Subscription | 👥 Company Size | 🔗 Link |
 | --- | --- | --- | --- | --- | --- |
 | **NVIDIA NeMo** | NVIDIA | Platform for building, training, and deploying generative AI models, including TTS and ASR. | **Free** (API Credits) / Enterprise | **$3.3T+** (Market Cap) | [NVIDIA NeMo](https://developer.nvidia.com/nemo) |
 | **Azure AI Speech** | Microsoft | High-quality neural voices with advanced fine-tuning, emotion, and enterprise scalability. | **Free** (0.5M chars/mo) / PAYG | **$3.2T+** (Market Cap) | [Azure AI Speech](https://azure.microsoft.com/en-us/products/ai-services/ai-speech) |
@@ -87,7 +89,7 @@ If you are looking for **free text-to-speech models for commercial use** or want
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tjZndxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxx66i7dG5m/giphy.gif" alt="Sound Wave Animation" width="300px" />
 </div>
 
-| Service/Model | Organization | Key Features | Primary Language | Repository |
+| 🛠️ Service/Model | 🏢 Organization | 🌟 Key Features | 🗣️ Primary Language | 📁 Repository |
 | --- | --- | --- | --- | --- |
 | **🐸 Coqui TTS** | Coqui | **Best overall open-source TTS.** Supports 1100+ languages, zero-shot voice cloning, and fine-tuning. | Python / Multilingual | [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) |
 | **Fish Speech** | Fish Audio | SOTA multilingual, multi-speaker model with superior naturalness. | Python | [![GitHub stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=social&color=white)](https://github.com/fishaudio/fish-speech/stargazers) |
@@ -273,6 +275,6 @@ If you find this collection of Text-to-Speech resources helpful, or if it has sa
 
 Every contribution, no matter how small, makes a huge difference in advancing the Text-to-Speech landscape! 🙏
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
