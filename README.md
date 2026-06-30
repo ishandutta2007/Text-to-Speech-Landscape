@@ -80,6 +80,7 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | **Play.ht** | Play.ht | Professional AI voices and "Ultra-Realistic" studio editor for long-form content. | **Free** (12.5k chars) / $39 | **$15M** (Valuation) | [Play.ht](https://play.ht/) |
 | **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | **Free** (API Credits) / Enterprise | **Indie** (Small) | [Spokio](https://spokio.pro/) |
 | **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | **Indie** (Project) | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
+| **Soniox TTS** | Soniox | Real-time streaming TTS API for conversational AI voice agents in 60+ languages with multilingual voices. | Pay-as-you-go (~$0.70/hr) | **Private** (Startup) | [Soniox](https://soniox.com/) |
 
 ### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
 
