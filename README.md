@@ -223,9 +223,16 @@ Explore influential academic papers and preprints in the field of Text-to-Speech
 -   [StyleTTS 2: Towards Human-Level TTS with Style Diffusion](https://arxiv.org/abs/2306.07691) (The architecture behind Kokoro-TTS)
 -   [Scalable Diffusion Transformers with Spatiotemporal Masking](https://arxiv.org/abs/2212.09748) (The DiT core used in high-fidelity audio generation)
 
-### ✨ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Text-to-Speech&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Text-to-Speech&type=date&legend=top-left)
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Text-to-Speech&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Text-to-Speech&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Text-to-Speech&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Text-to-Speech&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
 
 ## 💬 Community & Support for Text-to-Speech Enthusiasts
 
