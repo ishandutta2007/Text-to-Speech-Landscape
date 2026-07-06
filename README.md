@@ -81,6 +81,10 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | **Free** (API Credits) / Enterprise | **Indie** (Small) | [Spokio](https://spokio.pro/) |
 | **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | **Indie** (Project) | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
 | **Soniox TTS** | Soniox | Real-time streaming TTS API for conversational AI voice agents in 60+ languages with multilingual voices. | Pay-as-you-go (~$0.70/hr) | **Private** (Startup) | [Soniox](https://soniox.com/) |
+| **Cartesia Sonic** | Cartesia | Sub-100ms ultra-low latency TTS designed for real-time AI agents. | **Free** (API Credits) / PAYG | **Private** (Startup) | [Cartesia](https://cartesia.ai/) |
+| **LMNT** | LMNT | Lightning-fast TTS API with exceptional naturalness, great for interactive voice apps. | **Free** (API Credits) / PAYG | **Private** (Startup) | [LMNT](https://www.lmnt.com/) |
+| **Speechify** | Speechify | Highly popular consumer text-to-speech with premium voices (including celebrity voices). | **Free** (Basic Voices) / $139/yr | **Private** (Startup) | [Speechify](https://speechify.com/) |
+| **Neets.ai** | Neets | Extremely fast and affordable TTS APIs starting at $0.0004 per 1k characters. | **Free** (API Credits) / PAYG | **Private** (Startup) | [Neets.ai](https://neets.ai/) |
 
 ### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
 
@@ -100,6 +104,12 @@ If you are looking for **free text-to-speech models for commercial use** or want
 | **Piper** | Rhasspy | **Fastest local TTS.** Optimized for low-end hardware and offline use. | C++ / Python | [![GitHub stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers) |
 | **Kokoro-82M** | Hexgrad | **Best SOTA CPU TTS.** Ultra-fast, studio quality, only 82M parameters. | ONNX / Python | [![GitHub stars](https://img.shields.io/github/stars/hexgrad/kokoro?style=social&color=white)](https://github.com/hexgrad/kokoro/stargazers) |
 | **Parler-TTS** | Hugging Face | Lightweight, controllable speech generation with high naturalness. | Python | [HF](https://huggingface.co/parler-tts) |
+| **CosyVoice** | Alibaba | Excellent multilingual and zero-shot voice cloning model capable of high fidelity. | Python | [![GitHub stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&color=white)](https://github.com/FunAudioLLM/CosyVoice/stargazers) |
+| **ChatTTS** | 2noise | Conversational text-to-speech model specially optimized for dialogue and natural conversational flow. | Python | [![GitHub stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social&color=white)](https://github.com/2noise/ChatTTS/stargazers) |
+| **OpenVoice** | MyShell | Highly versatile and instant voice cloning that requires only a short audio clip. | Python | [![GitHub stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social&color=white)](https://github.com/myshell-ai/OpenVoice/stargazers) |
+| **Amphion** | Amphion | Open-source audio, music and speech generation toolkit containing multiple SOTA TTS models. | Python | [![GitHub stars](https://img.shields.io/github/stars/open-mmlab/Amphion?style=social&color=white)](https://github.com/open-mmlab/Amphion/stargazers) |
+| **Matcha-TTS** | Shivam Mehta | Fast TTS architecture employing conditional flow matching, producing highly natural output. | Python | [![GitHub stars](https://img.shields.io/github/stars/shivammehta25/Matcha-TTS?style=social&color=white)](https://github.com/shivammehta25/Matcha-TTS/stargazers) |
+| **Tortoise-TTS** | James Betker | Powerful multi-voice TTS system known for its exceptional voice cloning capabilities. | Python | [![GitHub stars](https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=social&color=white)](https://github.com/neonbjb/tortoise-tts/stargazers) |
 
 ### Advanced Voice Cloning & Neural Voice Synthesis 🧬
 
