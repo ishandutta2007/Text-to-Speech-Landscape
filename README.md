@@ -110,6 +110,7 @@ If you are looking for **free text-to-speech models for commercial use** or want
 | **Kokoro-82M** | Hexgrad | **Best SOTA CPU TTS.** Ultra-fast, studio quality, only 82M parameters. | ONNX / Python | [![GitHub stars](https://img.shields.io/github/stars/hexgrad/kokoro?style=social&color=white)](https://github.com/hexgrad/kokoro/stargazers) |
 | **Parler-TTS** | Hugging Face | Lightweight, controllable speech generation with high naturalness. | Python | [HF](https://huggingface.co/parler-tts) |
 | **Matcha-TTS** | Shivam Mehta | Fast TTS architecture employing conditional flow matching, producing highly natural output. | Python | [![GitHub stars](https://img.shields.io/github/stars/shivammehta25/Matcha-TTS?style=social&color=white)](https://github.com/shivammehta25/Matcha-TTS/stargazers) |
+| **LocalMode** | LocalMode | **In-browser TTS.** Runs Kokoro (29 voices) and other AI models 100% in the browser via WebGPU/WASM. No server, no API keys, offline after first load. | JavaScript / TypeScript | [![GitHub stars](https://img.shields.io/github/stars/LocalMode-AI/LocalMode?style=social&color=white)](https://github.com/LocalMode-AI/LocalMode/stargazers) |
 
 ### Advanced Voice Cloning & Neural Voice Synthesis 🧬
 
