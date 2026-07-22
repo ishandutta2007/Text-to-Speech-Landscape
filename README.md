@@ -79,13 +79,13 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | **Deepgram Aura** | Deepgram | Specializing in low-latency TTS designed for real-time conversational AI and virtual interactions. | **Free** ($200 credit) / PAYG | **$1.2B** (Valuation) | [Deepgram Aura](https://deepgram.com/aura) |
 | **Cartesia Sonic** | Cartesia | Sub-100ms ultra-low latency TTS designed for real-time AI agents. | **Free** (API Credits) / PAYG | **$200M** (Valuation) | [Cartesia](https://cartesia.ai/) |
 | **Murf.ai** | Murf.ai | AI voiceovers with a built-in video editor, ideal for creators and presentations. | **Free** (10 mins total) / $19 | **$46M** (Valuation) | [Murf.ai](https://murf.ai/) |
+| **LMNT** | LMNT | Lightning-fast TTS API with exceptional naturalness, great for interactive voice apps. | **Free** (API Credits) / PAYG | **$21M** (Estimated) | [LMNT](https://www.lmnt.com/) |
 | **Play.ht** | Play.ht | Professional AI voices and "Ultra-Realistic" studio editor for long-form content. | **Free** (12.5k chars) / $39 | **$15M** (Valuation) | [Play.ht](https://play.ht/) |
-| **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | **Free** (API Credits) / Enterprise | **Indie** (Small) | [Spokio](https://spokio.pro/) |
-| **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | **Indie** (Project) | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
-| **LMNT** | LMNT | Lightning-fast TTS API with exceptional naturalness, great for interactive voice apps. | **Free** (API Credits) / PAYG | **Private** (Startup) | [LMNT](https://www.lmnt.com/) |
-| **Neets.ai** | Neets | Extremely fast and affordable TTS APIs starting at $0.0004 per 1k characters. | **Free** (API Credits) / PAYG | **Private** (Startup) | [Neets.ai](https://neets.ai/) |
-| **Soniox TTS** | Soniox | Real-time streaming TTS API for conversational AI voice agents in 60+ languages with multilingual voices. | Pay-as-you-go (~$0.70/hr) | **Private** (Startup) | [Soniox](https://soniox.com/) |
-| **RunAPI ElevenLabs SDK** | RunAPI | Multi-language SDKs for ElevenLabs text-to-speech, dialogue generation, sound effects, transcription, and audio isolation workflows. | Pay-as-you-go | **Private** | [RunAPI ElevenLabs SDK](https://github.com/runapi-ai/elevenlabs-sdk) |
+| **Soniox TTS** | Soniox | Real-time streaming TTS API for conversational AI voice agents in 60+ languages with multilingual voices. | Pay-as-you-go (~$0.70/hr) | **$10M** (Estimated) | [Soniox](https://soniox.com/) |
+| **Neets.ai** | Neets | Extremely fast and affordable TTS APIs starting at $0.0004 per 1k characters. | **Free** (API Credits) / PAYG | **$5M** (Estimated) | [Neets.ai](https://neets.ai/) |
+| **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | **Free** (API Credits) / Enterprise | **<$1M** (Indie) | [Spokio](https://spokio.pro/) |
+| **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | **<$1M** (Indie) | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
+| **RunAPI ElevenLabs SDK** | RunAPI | Multi-language SDKs for ElevenLabs text-to-speech, dialogue generation, sound effects, transcription, and audio isolation workflows. | Pay-as-you-go | **<$1M** (Indie) | [RunAPI ElevenLabs SDK](https://github.com/runapi-ai/elevenlabs-sdk) |
 
 ### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
 
