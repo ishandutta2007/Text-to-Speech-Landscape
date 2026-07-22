@@ -85,6 +85,7 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | **LMNT** | LMNT | Lightning-fast TTS API with exceptional naturalness, great for interactive voice apps. | **Free** (API Credits) / PAYG | **Private** (Startup) | [LMNT](https://www.lmnt.com/) |
 | **Neets.ai** | Neets | Extremely fast and affordable TTS APIs starting at $0.0004 per 1k characters. | **Free** (API Credits) / PAYG | **Private** (Startup) | [Neets.ai](https://neets.ai/) |
 | **Soniox TTS** | Soniox | Real-time streaming TTS API for conversational AI voice agents in 60+ languages with multilingual voices. | Pay-as-you-go (~$0.70/hr) | **Private** (Startup) | [Soniox](https://soniox.com/) |
+| **RunAPI ElevenLabs SDK** | RunAPI | Multi-language SDKs for ElevenLabs text-to-speech, dialogue generation, sound effects, transcription, and audio isolation workflows. | Pay-as-you-go | **Private** | [RunAPI ElevenLabs SDK](https://github.com/runapi-ai/elevenlabs-sdk) |
 
 ### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
 
