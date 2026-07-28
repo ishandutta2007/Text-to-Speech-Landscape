@@ -201,6 +201,7 @@ If I missed your output sample/demo in this consolidation, just add and send a p
 Practical guides and interactive notebooks for experimenting with Text-to-Speech models.
 
 -   https://github.com/tugstugi/dl-colab-notebooks
+-   [Brainiall TTS MCP server and OpenAPI examples](https://github.com/fasuizu-br/brainiall-tts-mcp) — hosted neural TTS integration with 54 voices across nine languages, including Brazilian Portuguese.
 
 ## Product Demos & Showcase Videos 🎥
 
