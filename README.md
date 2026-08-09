@@ -149,6 +149,7 @@ Stay updated with the latest breakthroughs and discussions in the TTS community.
 -   **[Reddit: The ElevenLabs Killer Quest (r/TTS)](https://www.reddit.com/r/TTS/):** Community-driven search for high-fidelity, local open-source alternatives to proprietary SaaS.
 -   **[TTS Arena by Artificial Analysis](https://artificialanalysis.ai/models/speech):** The definitive community leaderboard for blind-testing the naturalness of modern TTS models.
 -   **[[D] Why Flow Matching is replacing traditional Diffusion in TTS](https://www.reddit.com/r/MachineLearning/):** Technical deep-dive into the "straightening" of ODE paths for faster, higher-quality audio generation.
+-   **[An Automated Failure-Mode QA Framework for Neural Text-to-Speech Systems](https://doi.org/10.5281/zenodo.20757553):** A production case study introducing automated failure-mode detection for TTS output, with [ttsproof (https://github.com/Mormolykos/ttsproof) as its open-source implementation.
 
 ### Exemplary Code Samples & Project Demos 💻
 
