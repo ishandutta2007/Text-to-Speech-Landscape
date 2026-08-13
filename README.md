@@ -2,7 +2,7 @@
   <img src="banner.svg" alt="Awesome Text-to-Speech Banner" width="100%" />
 </div>
 
-# Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2025
+# Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2026
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
@@ -21,7 +21,7 @@
 
 ### 🚀 The Ultimate Guide to AI Voice Generation, Speech Synthesis, and Neural Voice Cloning
 
-Welcome to the most comprehensive, meticulously curated, and continuously updated list of **Text-to-Speech (TTS)** resources. Whether you are looking for the **best open-source TTS models of 2025**, searching for **low-latency TTS APIs for AI agents**, or exploring **high-fidelity voice cloning for content creation**, you've found the right place.
+Welcome to the most comprehensive, meticulously curated, and continuously updated list of **Text-to-Speech (TTS)** resources. Whether you are looking for the **best open-source TTS models of 2026**, searching for **low-latency TTS APIs for AI agents**, or exploring **high-fidelity voice cloning for content creation**, you've found the right place.
 
 > [!TIP]
 > **Looking for the best ElevenLabs alternatives?** This repository tracks the rapidly evolving landscape of both commercial SaaS and local-first neural speech synthesis.
@@ -31,7 +31,7 @@ Welcome to the most comprehensive, meticulously curated, and continuously update
 ## 🗺️ Quick Navigation
 
 - [Why Text-to-Speech?](#-why-explore-text-to-speech)
-- [Current Trends (2025)](#-current-state-of-text-to-speech-as-of-2024-)
+- [Current Trends (2026)](#-current-state-of-text-to-speech-as-of-2024-)
 - [Commercial & Cloud Platforms](#-cloud-based--commercial-ai-voice-generation-platforms)
 - [Open-Source Libraries](#-open-source-text-to-speech-libraries--projects)
 - [Advanced Voice Cloning](#-advanced-voice-cloning--neural-voice-synthesis-)
@@ -51,7 +51,7 @@ Text-to-Speech technology has moved beyond robotic voices. Today, it powers:
 
 ---
 
-## 📈 Current State of Text-to-Speech (2025 Update)
+## 📈 Current State of Text-to-Speech (2026 Update)
 
 The landscape of **AI voice synthesis** has shifted from basic concatenation to advanced **Generative Speech Models**. Key highlights:
 
@@ -316,8 +316,8 @@ Explore how **Text-to-Speech** and **Voice Cloning** are being used across indus
 
 ## ❓ Frequently Asked Questions (FAQ) & SEO Insights
 
-### What is the best open-source Text-to-Speech model in 2025?
-As of 2025, **Kokoro-82M** is widely considered the best for CPU-based local inference due to its studio quality and small footprint. For high-fidelity and expressive speech, **F5-TTS** and **Fish Speech** are leading the way in naturalness.
+### What is the best open-source Text-to-Speech model in 2026?
+As of 2026, **Kokoro-82M** is widely considered the best for CPU-based local inference due to its studio quality and small footprint. For high-fidelity and expressive speech, **F5-TTS** and **Fish Speech** are leading the way in naturalness.
 
 ### Are there free ElevenLabs alternatives for voice cloning?
 Yes! Projects like **Coqui XTTS-v2**, **GPT-SoVITS**, and **OpenVoice** offer high-quality voice cloning for free. If you are looking for local-first alternatives, check out **F5-TTS** and **CosyVoice**.
