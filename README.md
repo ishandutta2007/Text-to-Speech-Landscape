@@ -80,6 +80,7 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | **Inworld AI** | Inworld AI | Character-driven conversational voice engine and real-time speech generation for interactive agents. | **Free** (Basic / 100k API credits) / $20 | **$500M** (Valuation) | [Inworld AI](https://inworld.ai/) |
 | **Hume AI (EVI)** | Hume AI | Empathic Voice Interface with emotional prosody detection and low-latency expressive speech. | **Free** ($10 credit) / PAYG ($0.036/min) | **$250M** (Valuation) | [Hume AI](https://www.hume.ai/) |
 | **Cartesia Sonic** | Cartesia | Sub-100ms ultra-low latency TTS designed for real-time AI agents. | **Free** (API Credits) / PAYG | **$200M** (Valuation) | [Cartesia](https://cartesia.ai/) |
+| **Gradium** | Gradium | Real-time TTS and STT for voice agents. 158ms P50 time-to-first-audio, streaming and instant voice cloning. | **Free** (45k credits) / $13 | **$100M** (Seed Raised) | [Gradium](https://gradium.ai/) |
 | **Murf.ai** | Murf.ai | AI voiceovers with a built-in video editor, ideal for creators and presentations. | **Free** (10 mins total) / $19 | **$46M** (Valuation) | [Murf.ai](https://murf.ai/) |
 | **WellSaid Labs** | WellSaid Labs | Enterprise AI voice platform with natural studio voices, fine phonetic control, and brand voice avatars. | **Free** (7-day trial / 50 clips) / $49 | **$40M** (Valuation) | [WellSaid Labs](https://wellsaidlabs.com/) |
 | **Resemble AI** | Resemble AI | High-fidelity voice cloning, neural watermarking, deepfake detection, and real-time speech synthesis. | **Free** (Free trial) / $29 | **$30M** (Valuation) | [Resemble AI](https://www.resemble.ai/) |
@@ -185,6 +186,7 @@ A collection of influential code repositories and product demonstrations showcas
 
 | Project/Samples | Pretrained Models | Code Link | Paper/Arxiv ID | Output Quality | Year of Launch | Description |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Gradbot Demos](https://github.com/gradium-ai/gradbot/tree/main/demos) | -- | [Code](https://github.com/gradium-ai/gradbot) | [Codebase](https://github.com/gradium-ai/gradbot) | A | 2026 | Eight voice agent demos (banking, hotel booking, 3D game NPCs) built on Gradium's real-time TTS/STT APIs. |
 | [Fish Speech v1.5](https://github.com/fishaudio/fish-speech) | -- | [Code](https://github.com/fishaudio/fish-speech) | [Codebase](https://github.com/fishaudio/fish-speech) | A+ | 2026 | SOTA multilingual, multi-speaker model with superior naturalness. |
 | [GLM-4-Voice Samples](https://github.com/THUDM/GLM-4-Voice) | -- | [Code](https://github.com/THUDM/GLM-4-Voice) | [Codebase](https://github.com/THUDM/GLM-4-Voice) | A | 2025 | End-to-end voice model with expressive bilingual dialogue. |
 | [Kokoro-82M Samples](https://github.com/hexgrad/kokoro) | -- | [Code](https://github.com/hexgrad/kokoro) | -- | A | 2025 | Ultra-efficient CPU-based model with studio-quality output. |
