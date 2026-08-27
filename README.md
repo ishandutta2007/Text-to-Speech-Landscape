@@ -95,6 +95,7 @@ Leading platforms offering robust, scalable, and high-quality Text-to-Speech API
 | **Spokio** | Spokio | Offline macOS text-to-speech app with local voice cloning, batch export, and no cloud uploads. | **Free** (API Credits) / Enterprise | **<$1M** (Indie) | [Spokio](https://spokio.pro/) |
 | **PHANTOM VOICES** | PHANTOM VOICES | 10 free professional AI voice clones via public REST API. Zero cost, commercial rights cleared. 29 platform configs (Vapi, Retell AI, etc). Multilingual (9+ languages). AI-powered recommendation. | **Free** (API Credits) / Enterprise | **<$1M** (Indie) | [PHANTOM VOICES](https://auto-business-agent.replit.app/portfolio) |
 | **RunAPI ElevenLabs SDK** | RunAPI | Multi-language SDKs for ElevenLabs text-to-speech, dialogue generation, sound effects, transcription, and audio isolation workflows. | Pay-as-you-go | **<$1M** (Indie) | [RunAPI ElevenLabs SDK](https://github.com/runapi-ai/elevenlabs-sdk) |
+| **Audexum** | Audexum | Text-to-speech and speech-to-text in one API: 43 voices, 32 TTS languages, 25 STT languages. ElevenLabs-compatible endpoint, so switching is a base-URL change. EU-hosted, every output watermarked. | **Free** (30k credits at signup, 3k/mo after) / EUR 4 | **<$1M** (Indie) | [Audexum](https://audexum.com/docs) |
 
 ### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
 
