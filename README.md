@@ -31,7 +31,7 @@ Welcome to the most comprehensive, meticulously curated, and continuously update
 ## 🗺️ Quick Navigation
 
 - [Why Text-to-Speech?](#-why-explore-text-to-speech)
-- [Current Trends (2026)](#-current-state-of-text-to-speech-as-of-2024-)
+- [Current Trends (2026)](#-current-state-of-text-to-speech-2026-update)
 - [Commercial & Cloud Platforms](#-cloud-based--commercial-ai-voice-generation-platforms)
 - [Open-Source Libraries](#-open-source-text-to-speech-libraries--projects)
 - [Advanced Voice Cloning](#-advanced-voice-cloning--neural-voice-synthesis-)
@@ -107,7 +107,7 @@ If you are looking for **free text-to-speech models for commercial use** or want
 
 | 🛠️ Service/Model | 🏢 Organization | 🌟 Key Features | 🗣️ Primary Language | 📁 Github_Repository |
 | --- | --- | --- | --- | --- |
-| **🐸 Coqui TTS** | Coqui | **Best overall open-source TTS.** Supports 1100+ languages, zero-shot voice cloning, and fine-tuning. | Python / Multilingual | [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) |
+| **🐸 Coqui TTS** | Coqui (community) | Supports 1100+ languages, zero-shot voice cloning, and fine-tuning. *Note: Coqui AI (the company) shut down in late 2023; actively maintained by the community at [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS).* | Python / Multilingual | [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) |
 | **GPT-SoVITS** | RVC-Boss | **Zero-shot & few-shot voice cloning.** Requires only 5 seconds of sample audio for cross-lingual synthesis. | Python / PyTorch | [![GitHub stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social&color=white)](https://github.com/RVC-Boss/GPT-SoVITS/stargazers) |
 | **Bark** | Suno | Transformer-based text-to-audio model capable of highly expressive speech, music, laughs, and sighs. | Python / PyTorch | [![GitHub stars](https://img.shields.io/github/stars/suno-ai/bark?style=social&color=white)](https://github.com/suno-ai/bark/stargazers) |
 | **ChatTTS** | 2noise | Conversational text-to-speech model specially optimized for dialogue and natural conversational flow. | Python | [![GitHub stars](https://img.shields.io/github/stars/2noise/ChatTTS?style=social&color=white)](https://github.com/2noise/ChatTTS/stargazers) |
@@ -179,7 +179,7 @@ Stay updated with the latest breakthroughs and discussions in the TTS community.
 -   **[Reddit: The ElevenLabs Killer Quest (r/TTS)](https://www.reddit.com/r/TTS/):** Community-driven search for high-fidelity, local open-source alternatives to proprietary SaaS.
 -   **[TTS Arena by Artificial Analysis](https://artificialanalysis.ai/models/speech):** The definitive community leaderboard for blind-testing the naturalness of modern TTS models.
 -   **[[D] Why Flow Matching is replacing traditional Diffusion in TTS](https://www.reddit.com/r/MachineLearning/):** Technical deep-dive into the "straightening" of ODE paths for faster, higher-quality audio generation.
--   **[An Automated Failure-Mode QA Framework for Neural Text-to-Speech Systems](https://doi.org/10.5281/zenodo.20757553):** A production case study introducing automated failure-mode detection for TTS output, with [ttsproof (https://github.com/Mormolykos/ttsproof) as its open-source implementation.
+-   **[An Automated Failure-Mode QA Framework for Neural Text-to-Speech Systems](https://doi.org/10.5281/zenodo.20757553):** A production case study introducing automated failure-mode detection for TTS output, with [ttsproof](https://github.com/Mormolykos/ttsproof) as its open-source implementation.
 
 ### Exemplary Code Samples & Project Demos 💻
 
